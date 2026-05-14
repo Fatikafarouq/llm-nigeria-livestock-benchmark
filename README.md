@@ -9,7 +9,6 @@ A 420-question evaluation benchmark testing LLM knowledge gaps on Nigerian lives
 
 ## Models evaluated
 - Llama 3.1 8B (judge + evaluated model) — pilot complete
-- Gemma2 9B — pilot complete
 - Claude Sonnet, GPT-4o, Gemini 2.5 Pro, Llama 3.1 70B — Phase 2 (in progress)
 
 ## Question categories
